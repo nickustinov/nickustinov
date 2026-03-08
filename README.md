@@ -1,6 +1,6 @@
 # Hey, I'm Nick 👋
 
-Building software since 1992. I make lightweight, privacy-first macOS apps – no telemetry, no bloat, no subscriptions.
+I make lightweight, privacy-first macOS apps – no telemetry, no bloat, no subscriptions.
 
 🌐 [itsyapps.com](https://itsyapps.com) · 📬 hello@itsyapps.com
 
