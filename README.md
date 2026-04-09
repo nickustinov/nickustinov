@@ -23,7 +23,6 @@ I make lightweight, privacy-first macOS and iOS apps – no telemetry, no bloat,
 | [**even-g2-notes**](https://github.com/nickustinov/even-g2-notes) | Community notes and resources for Even Realities G2 | ![GitHub stars](https://img.shields.io/github/stars/nickustinov/even-g2-notes?style=flat) |
 | [**itsyhome-even-g2**](https://github.com/nickustinov/itsyhome-even-g2) | HomeKit & Home Assistant controls on your glasses | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
 | [**tesla-even-g2**](https://github.com/nickustinov/tesla-even-g2) | Tesla vehicle status and controls | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
-| [**books-even-g2**](https://github.com/nickustinov/books-even-g2) | Read books on your glasses | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
 | [**stt-even-g2**](https://github.com/nickustinov/stt-even-g2) | Real-time speech-to-text via Soniox | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
 | [**weather-even-g2**](https://github.com/nickustinov/weather-even-g2) | Weather forecast on your glasses | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
 | [**arkanoid-even-g2**](https://github.com/nickustinov/arkanoid-even-g2) | Arkanoid game | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
