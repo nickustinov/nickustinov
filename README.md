@@ -14,7 +14,7 @@ I make lightweight, privacy-first macOS and iOS apps – no telemetry, no bloat,
 | [**Itsytv**](https://github.com/nickustinov/itsytv-macos) | Apple TV remote app for iOS/macOS | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/nickustinov/itsytv-macos?style=flat) |
 | [**Itsypad**](https://github.com/nickustinov/itsypad-macos) | A tiny, fast scratchpad and clipboard manager for Mac | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/nickustinov/itsypad-macos?style=flat) |
 | [**Itsyconnect**](https://github.com/nickustinov/itsyconnect-macos) | Better App Store Connect – manage metadata, TestFlight, reviews locally | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/nickustinov/itsyconnect-macos?style=flat) |
-| [**Itsytack**](https://github.com/nickustinov/itsytack-macos) | Lightweight menu bar app for quick access to pinned websites | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/nickustinov/pinster-macos?style=flat) 
+| [**Itsypin**](https://github.com/nickustinov/itsypin-macos) | Lightweight menu bar app for quick access to pinned websites | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/nickustinov/pinster-macos?style=flat) 
 
 ### Even Realities G2 smart glasses apps
 
